@@ -1,0 +1,6 @@
+apiVersion: web.app.wbuntu.com/v1
+kind: Bundle
+metadata:
+  name: bundle-sample
+spec:
+  # TODO(user): Add fields here
